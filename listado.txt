@@ -50909,7 +50909,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sonatns.sonatrach.dz
 0.0.0.0 sousay.info
 0.0.0.0 sparc.nour.net.sa
-0.0.0.0 speedtestbeta.com
 0.0.0.0 sps01.office.ctm.net
 0.0.0.0 squartera.info
 0.0.0.0 stackoverflow.dluat.com
@@ -51205,7 +51204,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.sinera.org
 0.0.0.0 www.siom.ac.cn
-0.0.0.0 www.speedtestbeta.com
 0.0.0.0 www.stellarium.fr
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.systempartition.com
