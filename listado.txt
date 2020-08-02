@@ -1,1 +1,62 @@
-cfdf
+# Title: CesarCamacho/hosts
+#
+# IPcom Sistemas S.A.S Colombia, como parte de su compromiso social
+# y en cumplimiento de las normas vigentes, informa a sus usuarios sobre
+# la existencia y los alcances de la Ley 679 de 2001, y sus decretos reglamentarios,
+# los cuales pueden ser consultados (MINTIC) y sobre los sitios en que nuestros usuarios
+# pueden denunciar ante las autoridades competentes sitios en la red con presencia de
+# contenidos de juegos Ilegales.
+# Esta campaña del Ministerio de Comunicaciones busca que todos los Colombianos comprendan
+# Pasimilen lo que significa la prevención en la ilegalidad de los juegos en linea.
+# 
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start CesarCamacho
+
+#=====================================
+# Hosts contributed by Cesar Camacho
+# http://ipcomsistemas.co
+
+0.0.0.0 n2019cov.000webhostapp.com
+0.0.0.0 webmail-who-int.000webhostapp.com
+0.0.0.0 010sec.com
+0.0.0.0 01mspmd5yalky8.com
+0.0.0.0 0byv9mgbn0.com
+0.0.0.0 ns6.0pendns.org
+0.0.0.0 dns.0pengl.com
+0.0.0.0 ios.0pengl.com
+0.0.0.0 0x4fc271.tk
+0.0.0.0 login.yahoo.com.0x4fc271.tk
+0.0.0.0 0xf4a5.tk
+0.0.0.0 user-id.0xf4a5.tk
+0.0.0.0 change-password.yahoo.user-id.0xf4a5.tk
+0.0.0.0 login.yahoo.user-id.0xf4a5.tk
+0.0.0.0 0xf4a54cf56.tk
+0.0.0.0 login.yahoo.user-id.0xf4a54cf56.tk
+0.0.0.0 12724.xyz
+0.0.0.0 15438.xyz
+0.0.0.0 21736.xyz
+0.0.0.0 analytics.247sports.com
+0.0.0.0 www.analytics.247sports.com
+0.0.0.0 2no.co
+0.0.0.0 www.2no.co
